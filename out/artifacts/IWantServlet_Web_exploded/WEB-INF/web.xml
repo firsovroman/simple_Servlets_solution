@@ -6,7 +6,7 @@
 
 <servlet>
     <servlet-name>Main</servlet-name>
-    <servlet-class>MainServlet</servlet-class>
+    <servlet-class>servlets.MainServlet</servlet-class>
 </servlet>
     <servlet-mapping>
         <servlet-name>Main</servlet-name>
@@ -15,7 +15,7 @@
 
     <servlet>
         <servlet-name>add</servlet-name>
-        <servlet-class>AddServlet</servlet-class>
+        <servlet-class>servlets.AddServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -26,7 +26,7 @@
 
     <servlet>
         <servlet-name>list</servlet-name>
-        <servlet-class>ListServlet</servlet-class>
+        <servlet-class>servlets.ListServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
