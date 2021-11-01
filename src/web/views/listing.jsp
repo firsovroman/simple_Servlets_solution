@@ -31,6 +31,7 @@
 </div>
 
 <div>
+    <br><br>
     <button onclick="location.href='/'">Back to main</button>
 </div>
 </body>
