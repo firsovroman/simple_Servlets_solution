@@ -23,20 +23,20 @@ public class MainServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws IOException {
         System.out.println("сработал гет");
 
-        String name = req.getParameter("name");
-        String surname = req.getParameter("surname");
+//        String name = req.getParameter("name");
+//        String surname = req.getParameter("surname");
+//
+//
+//        PrintWriter pw = resp.getWriter();
+//
+//        pw.println("<html>");
+//        pw.println("<h1></h1>");
+//        pw.println("<h1>Hello my friend "+ name +" " + surname +"</h1>");
+//
+//        pw.println("</html>");
 
 
-        PrintWriter pw = resp.getWriter();
-
-        pw.println("<html>");
-        pw.println("<h1></h1>");
-        pw.println("<h1>Hello my friend "+ name +" " + surname +"</h1>");
-
-        pw.println("</html>");
-
-
-        resp.sendRedirect("https://www.vk.com");
+        resp.sendRedirect("https://www.ya.ru");
 
     }
 

@@ -1,0 +1,5 @@
+model\Model.class
+entities\User.class
+servlets\AddServlet.class
+servlets\ListServlet.class
+servlets\MainServlet.class
