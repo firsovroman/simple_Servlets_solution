@@ -19,4 +19,4 @@ We have here 2 main options
 ![alt text](https://github.com/firsovroman/simple_servlet_solution/raw/master/pictures/3.png)
 
 
-And also we have redirect if we put URL like "/main" redirect to the ya.ru will work.
+And also we have redirect if we put URL like "/main" redirect to the website "ya.ru" will work.
