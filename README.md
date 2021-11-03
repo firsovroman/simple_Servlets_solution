@@ -14,7 +14,7 @@ We have here 2 main options
 
 ![alt text](https://github.com/firsovroman/simple_servlet_solution/raw/master/pictures/2.png)
 
-2)List
+2) List
 
 ![alt text](https://github.com/firsovroman/simple_servlet_solution/raw/master/pictures/3.png)
 
